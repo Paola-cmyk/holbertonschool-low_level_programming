@@ -3,7 +3,8 @@
  * print_strings - prints strings
  * @separator: separates strings
  * @n: number
- *
+ * @...: the list of numbers
+ * Return: Nothing
  *
  */
 void print_strings(const char *separator, const unsigned int n, ...)
